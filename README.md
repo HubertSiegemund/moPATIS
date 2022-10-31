@@ -1,2 +1,0 @@
-# moPATIS
-Das mobile Patienteninformationssystem
