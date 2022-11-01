@@ -3,6 +3,7 @@ Basefunctions
 View Logo
 -------------
 Display Name
+Display Picture
 -------------
 Display Extended Data
 ---------------------
