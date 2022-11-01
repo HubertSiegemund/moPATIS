@@ -1,1 +1,1 @@
-Static View
+Static View Basics
