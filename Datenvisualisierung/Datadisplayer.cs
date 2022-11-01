@@ -2,6 +2,8 @@ Basefunctions
 -------------
 View Logo
 -------------
+Display Name
+-------------
 Display Extended Data
 ---------------------
 Display Common Data 1
