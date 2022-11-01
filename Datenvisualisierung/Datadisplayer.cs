@@ -5,6 +5,8 @@ View Logo
 Display Name
 Display Picture
 -------------
+Display List
+-------------
 Display Extended Data
 ---------------------
 Display Common Data 1
