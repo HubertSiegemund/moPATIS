@@ -15,5 +15,6 @@ Display Common Data 3
 ---------------------
 Display Last Data
 ---------------------
-Display data Visite
+Display Data Visit
+Display Data Visit Protocol
 
