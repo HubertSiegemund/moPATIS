@@ -1,5 +1,3 @@
 Initi
 -----------
 Listviever
-...........
-List CT
