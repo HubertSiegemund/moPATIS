@@ -17,4 +17,5 @@ Display Last Data
 ---------------------
 Display Data Visit
 Display Data Visit Protocol
-
+----------------------
+Display Occupancy Schedule
