@@ -19,3 +19,5 @@ Display Data Visit
 Display Data Visit Protocol
 ----------------------
 Display Occupancy Schedule
+--------------------------
+Display CT Data
